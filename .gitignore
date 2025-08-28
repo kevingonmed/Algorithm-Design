@@ -1,0 +1,4 @@
+#Ignore the word documents
+*.docx
+#Ignore the Videos
+*.mp4

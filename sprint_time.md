@@ -2,7 +2,7 @@
 
 Name:Kevin Gonzalez 
 
-Sprint #:1
+Sprint #:5
 
 ## Instructions
 
@@ -26,13 +26,13 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|    14    |   6      | Im     |Reserch of the IDE that i was going to use  |   180       |
-|    15    |    7     |  TP    | Making the repository and making it work forall my team members  | 120           |
-|    16      |  12        |  mtg      |HOW WE WERE GOING TO DEVIDE THE PARTS| 120            |
-|     21     |  7        |  TP      |Getting familiar with Kotlin           |  120           |
-|     22     |   6       |   Im     | Writing some code and making tests     | 180            |
-|     22     |     12     |    MTG    | We set up goals and design           |120             |
-|     25     |    9      |    Im    | Finish the proect and running the app    |    240         |
+|    14    |   6      | Im    |Diiference  between pygame and arcade |   120   |
+|    15    |    7     |  TP    | Create the 3 screen | 120           |
+|    16      |  12        |  mtg      |Gather our ideas and our goals | 120            |
+|     21     |  7        |  TP      |Adding images|  120           |
+|     22     |   6       |   Im     | learning how to write the pygame and also  how to assign the keyboard to move | 180  |
+|     22     |     12     |    MTG    | Adding some animation and adding the button when the workout is done     |120             |
+|     25     |    9      |    Im    | Looking to all my mistake and all the bugs that the code and my game had, and also adding the speed ery time  |    240         |
 
 _Note: Add more rows as needed._
 
