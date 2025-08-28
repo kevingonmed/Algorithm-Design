@@ -2,3 +2,6 @@
 *.docx
 #Ignore the Videos
 *.mp4
+
+#ignore a test Folder
+hello.world/
